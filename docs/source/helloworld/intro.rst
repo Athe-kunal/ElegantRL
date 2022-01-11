@@ -72,7 +72,7 @@ run.py
 
 The while-loop will terminate when the conditions are met, e.g., achieving a target score, maximum steps, or manual breaks.
 
-In *run.py*, we also provide an evluator for model evaluation and four demo functions:
+In *run.py*, we also provide an evaluator for model evaluation and four demo functions:
 
     - discrete action using off-policy algorithm
     - discrete action using on-policy algorithm
